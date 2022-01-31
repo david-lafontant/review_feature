@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/david-lafontant/review_feature#readme",
   "devDependencies": {
-    "eslint": "^8.8.0"
+    "eslint": "^8.8.0",
+    "stylelint": "^14.3.0",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-csstree-validator": "^2.0.0",
+    "stylelint-scss": "^4.1.0"
   }
 }
